@@ -1,0 +1,1 @@
+Companion to go_logger - uses the Go module system to define a dependency.
